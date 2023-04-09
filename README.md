@@ -52,7 +52,7 @@ Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya 
 
 2. Buat file baru dengan nama .htaccsess
 
-![img 10](img/htaccsess.png)
+![img 10](img/.htaccsess.png)
 
 3. Buat file baru dengan nama index.php
 
